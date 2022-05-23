@@ -16,7 +16,7 @@ Se crean los directorios.
 
 ![image](https://user-images.githubusercontent.com/101071837/169680224-830316f1-c976-4c5a-bc9f-00615bacee47.png)
 
-Se crea un archivo con el nombre, se edita con los datos y se creA un directorio.
+Se crea un archivo con el nombre, se edita con los datos y se crea un directorio.
 
 ![image](https://user-images.githubusercontent.com/101071837/169680319-757d27c8-0441-4183-87dd-7127ec1ccffb.png)
 
